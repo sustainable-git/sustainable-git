@@ -2,6 +2,7 @@
 
 ### 🍎 Apps
 
+- Ticlemoa | [AppStore](https://apps.apple.com/kr/app/ticlemoa/id1659267166), [GitHub](https://github.com/depromeet/ticlemoa-iOS)
 - 한판 붙자! | [AppStore](https://apps.apple.com/in/app/한판-붙자/id1639050361)
 - 대구 착한 가격 업소 | [AppStore](https://apps.apple.com/kr/app/대구-착한-가격/id1635261511), [GitHub](https://github.com/DeveloperAcademy-POSTECH/MC3-Team15-DaeguGoodPriceShop)
 - AzitTalk | [AppStore](https://apps.apple.com/kr/app/azittalk/id1624679655), [GitHub](https://github.com/sustainable-git/AzitTalk)
